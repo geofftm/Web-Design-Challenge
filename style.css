@@ -1,0 +1,66 @@
+h1 {
+    text-align: left;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: lightseagreen;
+    
+}
+  
+  
+h3 {
+    text-align: center;
+    font-size: 25px;
+    color: lightseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+  
+  p {
+    font-size: 15px;
+    color: gray;
+    text-align: left;
+  }
+  
+  ul {
+    border-style: 
+    color: gray;
+  }
+
+ 
+ .col-md-12 {
+     background-color: white;
+     
+ }
+
+ .col-md-8 {
+    background-color: white;
+    
+}
+
+.col-md-6{
+    background-color: white;
+    padding-right: 10px;
+}
+
+.col-md-4 {
+    background-color: white;
+    padding-left: 10px;
+}
+ 
+.container{
+    padding: 20px;
+}
+  .navbar {
+      background-color: white;
+  }
+
+  a.navbar-brand{
+      background-color: lightseagreen;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: white;
+  }
+
+ 
+ 
+
+  
