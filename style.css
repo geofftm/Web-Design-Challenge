@@ -28,7 +28,7 @@ h3 {
  
  .col-md-12 {
      background-color: white;
-     padding-top: 15px;
+     padding-top: 50px;
      padding-bottom: 30px;
      border: white;
      
@@ -55,7 +55,11 @@ h3 {
 }
  
 .container{
-    padding: 20px;
+    padding-top: 20px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    background-color: white;
 }
   .navbar {
       background-color: white;
@@ -65,15 +69,21 @@ h3 {
       background-color: lightseagreen;
       font-family: Georgia, 'Times New Roman', Times, serif;
       color: white;
+    
   }
 
   .img-thumbnail {
       border: none;
   }
 
-  /* body {
+  body {
     background-color: lightgray;
-  } */
+  }
+
+  .navbar {
+      padding-top: 0px;
+      padding-bottom: 0px;
+  }
  
 
   
